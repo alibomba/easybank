@@ -1,2 +1,2 @@
 # Easybank
-Projekt strony Easybank pochodzi ze strony https://www.frontendmentor.io. Jest zrobiona w React JS bez backendu z racji tego że jest to tylko landing page.
+Easybank project comes from https://www.frontendmentor.io. It's built in ReactJS without backend as this is just a landing page.
